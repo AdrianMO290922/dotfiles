@@ -1,0 +1,10 @@
+"$Sschema" = 
+
+
+format = '''
+[┌───────────────────>](bold green)
+[│](bold green)$directory$rust$package
+[└─>](bold green) '''
+add_newline = true
+
+'  
